@@ -1,0 +1,229 @@
+{
+  "pays": "Îles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion Nordique aux Îles Féroé : Tórshavn et ses merveilles",
+  "budget_total": "Environ 1850 €/personne",
+  "duree": "5 jours",
+  "temps_vol": "2h40 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée paisible à Tórshavn",
+      "legende": "Après un vol direct depuis Paris, vous atterrirez à Vágar, porte d'entrée des Îles Féroé. Un transfert relaxant vous mènera à Tórshavn, la capitale, où une première balade douce vous plongera dans l'ambiance unique de l'archipel. Laissez-vous charmer par les maisons aux toits d'herbe et l'air marin vivifiant.",
+      "lieu": "Tórshavn",
+      "activites": [
+        "<strong>🛬 Arrivée à Vágar et transfert</strong>: Atterrissage à l'aéroport de Vágar (FAE) et prise en charge de votre véhicule de location pour un trajet panoramique vers Tórshavn (environ 45 min).",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Enregistrement dans votre hébergement au cœur de Tórshavn, offrant confort et tranquillité.",
+        "<strong>🚶‍♂️ Balade relaxante à Tinganes</strong>: Découvrez le quartier historique de Tinganes, avec ses maisons en bois aux toits d'herbe et son port pittoresque. Une immersion douce dans l'histoire féroïenne."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2772 }
+        },
+        {
+          "nom_recherche": "Tinganes, Tórshavn",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 62.0097, "lng": -6.7725 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "La location d'une voiture est fortement recommandée pour explorer les îles à votre rythme. Pensez à réserver à l'avance."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Culture et histoire féroïenne",
+      "legende": "Cette journée est dédiée à l'exploration culturelle de Tórshavn et à une incursion dans le passé médiéval des îles. Entre musées et sites historiques, vous découvrirez la richesse du patrimoine féroïen, le tout à un rythme apaisant, propice à la contemplation.",
+      "lieu": "Tórshavn et Kirkjubøur",
+      "activites": [
+        "<strong>🖼️ Visite du Musée National des Féroé</strong>: Plongez dans l'histoire naturelle et culturelle des îles, des Vikings à nos jours, pour une meilleure compréhension de l'archipel.",
+        "<strong>🏡 Détente à la Maison Nordique</strong>: Profitez de l'architecture unique et de l'ambiance sereine de ce centre culturel, souvent agrémenté d'expositions d'art ou de concerts doux.",
+        "<strong>⛪ Exploration de Kirkjubøur</strong>: Courte excursion vers ce village historique, ancien centre épiscopal, pour admirer la cathédrale de Magnus et la ferme de Kirkjubøargarður, l'une des plus anciennes maisons en bois habitées au monde."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Føroya Fornminnissavn, Tórshavn",
+          "categorie": "Musée",
+          "coords": { "lat": 62.0225, "lng": -6.7861 }
+        },
+        {
+          "nom_recherche": "Norðurlandahúsið, Tórshavn",
+          "categorie": "Centre culturel",
+          "coords": { "lat": 62.0150, "lng": -6.7970 }
+        },
+        {
+          "nom_recherche": "Kirkjubøur, Streymoy",
+          "categorie": "Village historique",
+          "coords": { "lat": 61.9961, "lng": -6.7936 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Balade côtière",
+          "texte": "Après Kirkjubøur, une courte balade le long de la côte offre des vues imprenables sur les îles voisines et l'océan Atlantique."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🚢",
+      "titre": "Évasion insulaire à Nólsoy",
+      "legende": "Aujourd'hui, échappez à l'agitation de la capitale pour une journée de pure détente sur l'île de Nólsoy. Accessible par un court trajet en ferry, cette île sans voiture est un havre de paix, idéal pour des balades douces, l'observation des oiseaux et la découverte d'un mode de vie authentique et préservé.",
+      "lieu": "Nólsoy",
+      "activites": [
+        "<strong>⛴️ Traversée en ferry vers Nólsoy</strong>: Embarquez pour une agréable traversée de 20 minutes depuis Tórshavn vers l'île de Nólsoy, offrant de belles vues sur la capitale.",
+        "<strong>🚶‍♀️ Exploration du village de Nólsoy</strong>: Flânez dans les ruelles colorées du seul village de l'île, admirez les maisons traditionnelles et imprégnez-vous de l'atmosphère paisible.",
+        "<strong>燈 Balade vers le phare de Nólsoy</strong>: Profitez d'une marche douce (environ 2h aller-retour) jusqu'au phare, un excellent point d'observation pour les oiseaux marins et les paysages côtiers."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Terminal Ferry Tórshavn, Tórshavn",
+          "categorie": "Port",
+          "coords": { "lat": 62.0080, "lng": -6.7720 }
+        },
+        {
+          "nom_recherche": "Nólsoy, Îles Féroé",
+          "categorie": "Île",
+          "coords": { "lat": 61.9900, "lng": -6.7000 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🐦",
+          "titre": "Observation des oiseaux",
+          "texte": "Nólsoy est un site important pour la nidification de nombreuses espèces d'oiseaux marins, notamment le pétrel tempête. Soyez discret et respectueux."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🏞️",
+      "titre": "Paysages emblématiques et sérénité",
+      "legende": "Aujourd'hui, partez à la découverte de certains des paysages les plus emblématiques et photogéniques des Îles Féroé. Des vallées isolées de Saksun aux plages de galets de Tjørnuvík, cette journée est une invitation à la contemplation et à la connexion avec la nature brute et majestueuse de l'archipel, loin de toute agitation.",
+      "lieu": "Saksun et Tjørnuvík",
+      "activites": [
+        "<strong>⛰️ Visite du village de Saksun</strong>: Découvrez ce hameau isolé, niché au fond d'une vallée verdoyante, avec son église et ses maisons aux toits d'herbe. Une balade tranquille autour du lagon est fortement recommandée.",
+        "<strong>🌊 Détente à Tjørnuvík</strong>: Profitez de la plage de sable noir de Tjørnuvík, offrant une vue spectaculaire sur les formations rocheuses \"Risin og Kellingin\" (le Géant et la Vieille Femme). Idéal pour une pause contemplative.",
+        "<strong>☕ Pause café féroïenne</strong>: Savourez un café ou un thé dans l'un des petits cafés locaux, en admirant les paysages environnants et en vous imprégnant de l'ambiance."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Saksun, Streymoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.2530, "lng": -7.1850 }
+        },
+        {
+          "nom_recherche": "Tjørnuvík, Streymoy",
+          "categorie": "Village et plage",
+          "coords": { "lat": 62.2960, "lng": -7.1650 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Conseil photo",
+          "texte": "Les lumières changeantes des Féroé offrent des opportunités photographiques uniques. N'oubliez pas votre appareil et soyez prêt à capturer des moments magiques."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🛫",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez d'une dernière matinée à Tórshavn pour quelques achats de souvenirs ou une ultime balade. Le temps de dire au revoir à ces îles magiques avant de reprendre la route vers l'aéroport de Vágar pour votre vol retour. Emportez avec vous des souvenirs impérissables de cette évasion nordique.",
+      "lieu": "Tórshavn et Vágar",
+      "activites": [
+        "<strong>🛍️ Achats de souvenirs à Tórshavn</strong>: Profitez des dernières heures pour dénicher des pulls en laine féroïenne (ull), des objets d'artisanat local ou des spécialités culinaires.",
+        "<strong>☕ Dernier café avec vue</strong>: Savourez un dernier café dans un des charmants cafés de Tórshavn, en contemplant le port et les collines environnantes.",
+        "<strong>🛫 Départ de Vágar</strong>: Route vers l'aéroport de Vágar, restitution du véhicule de location et vol retour vers Paris, la tête pleine de souvenirs féroïens."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Tórshavn, Îles Féroé",
+          "categorie": "Ville",
+          "coords": { "lat": 62.0100, "lng": -6.7700 }
+        },
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2772 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Artisanat local",
+          "texte": "La laine féroïenne est réputée pour sa qualité et sa chaleur. Un pull ou une écharpe est un excellent souvenir authentique."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "590 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 200 €/pers (location voiture partagée, essence, tunnels)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 350 €/pers (5 jours, mix restaurants/pique-niques)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 600 €/pers (4 nuits en hôtel 3* ou guesthouse)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 110 €/pers (musées, ferry Nólsoy, sites)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Septembre (moins de foule, couleurs automnales)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En septembre, les températures varient entre 8 et 12°C. Prévoir des couches de vêtements chauds, coupe-vent et imperméables, car le temps est très changeant.", "symbole": "🌧️" },
+    { "titre": "La monnaie est la Couronne féroïenne (DKK). Les cartes de crédit sont largement acceptées, mais un peu de liquide peut être utile pour les petits commerces isolés.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant. La conduite se fait à droite. Attention aux moutons sur les routes et aux tunnels sous-marins payants (environ 100 DKK/trajet).", "symbole": "🐑" },
+    { "titre": "Le réseau mobile est bon dans les zones habitées. Le Wi-Fi est disponible dans la plupart des hébergements et cafés. Une eSIM locale peut être pratique.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Les Îles Féroé comptent environ 54 000 habitants... et plus de 70 000 moutons ! Ces derniers se promènent souvent en toute liberté, y compris sur les routes, d'où l'importance de la prudence au volant."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "La langue féroïenne est l'une des plus petites langues germaniques parlées dans le monde. Elle est si unique qu'elle est restée très proche du vieux norrois, la langue des Vikings, et est presque incompréhensible pour les autres Scandinaves."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Ræst Kjøt",
+      "description": "Agneau fermenté, une spécialité féroïenne traditionnelle. La viande est séchée à l'air libre pendant plusieurs mois, lui conférant une saveur intense et unique, souvent servie avec des pommes de terre et des légumes racines."
+    },
+    {
+      "symbole": "🥩",
+      "titre": "Skerpikjøt",
+      "description": "Agneau séché au vent, une autre forme de viande d'agneau fermentée mais plus douce que le Ræst Kjøt. Il est souvent consommé en fines tranches, comme un jambon cru, et est un incontournable des tables féroïennes."
+    },
+    {
+      "symbole": "🐟",
+      "titre": "Fiskur (Poisson frais)",
+      "description": "Avec l'océan Atlantique à portée de main, le poisson est roi. Dégustez du cabillaud, du flétan ou du saumon frais, souvent préparé simplement pour en sublimer la saveur, grillé, poché ou en soupe."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2026-09-14/2026-09-19", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Location de voiture aux Féroé", "url": "https://www.rentals.fo/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo Féroé", "url": "https://www.yr.no/en/forecast/daily-table/1-251000/Faroe%20Islands/T%C3%B3rshavn", "symbole": "🌤️" }
+  ]
+}
